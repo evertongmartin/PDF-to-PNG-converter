@@ -11,3 +11,5 @@
 #### pillow	11.1.0	11.2.0
 ####  pip	25.0.1	25.0.1
 #### tkinterdnd2-universal	1.7.3	1.7.3
+
+### Para utilizar a versão executável, navegar até a pasta dist e abrir dar um duplo click no arquivo "pdf_to_png_converter.app"
