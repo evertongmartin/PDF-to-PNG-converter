@@ -2,7 +2,8 @@
 
 ## Projeto python que converte múltiplos arquivos .pdf para imagens .png com facilidade
 
-### Python Interpreter
+### Python Interpreter:
+
 #### PyQt5	5.15.11	5.15.11
 #### PyQt5-Qt5	5.15.16	5.15.16
 #### PyQt5_sip	12.17.0	12.17.0
