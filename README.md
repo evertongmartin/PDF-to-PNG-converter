@@ -16,4 +16,4 @@
 
 
 
-### Para utilizar a versão executável, navegar até a pasta dist e abrir dar um duplo click no arquivo "pdf_to_png_converter.app"
+## Para utilizar a versão executável, navegar até a pasta dist e abrir dar um duplo click no arquivo "pdf_to_png_converter.app"
